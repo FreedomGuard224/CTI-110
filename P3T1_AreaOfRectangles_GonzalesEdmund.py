@@ -1,7 +1,7 @@
 # CTI-110 
 # P3T1 - Areas of Rectangles
 # Gonzales,Edmund
-# 11/19/18
+# 6/19/18
 
 #define task
 print("Compare the area of two rectangles.")
